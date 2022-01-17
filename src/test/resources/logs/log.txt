@@ -1,0 +1,13 @@
+INFO    2022-01-17 18:15:43,028 [main] com.paylinks.driver.DriverManager  - Launched Chrome Instance
+INFO    2022-01-17 18:15:49,283 [main] com.paylinks.driver.DriverManager  - Launched Chrome Instance
+INFO    2022-01-17 18:15:53,475 [main] com.paylinks.driver.DriverManager  - Launched Chrome Instance
+INFO    2022-01-17 18:15:57,447 [main] com.paylinks.driver.DriverManager  - Launched Chrome Instance
+INFO    2022-01-17 18:16:01,337 [main] com.paylinks.driver.DriverManager  - Launched Chrome Instance
+INFO    2022-01-17 18:16:05,417 [main] com.paylinks.driver.DriverManager  - Launched Chrome Instance
+INFO    2022-01-17 18:16:09,789 [main] com.paylinks.driver.DriverManager  - Launched Chrome Instance
+INFO    2022-01-17 18:16:14,282 [main] com.paylinks.driver.DriverManager  - Launched Chrome Instance
+INFO    2022-01-17 18:16:18,309 [main] com.paylinks.driver.DriverManager  - Launched Chrome Instance
+INFO    2022-01-17 18:16:22,208 [main] com.paylinks.driver.DriverManager  - Launched Chrome Instance
+INFO    2022-01-17 18:16:26,419 [main] com.paylinks.driver.DriverManager  - Launched Chrome Instance
+INFO    2022-01-17 18:16:30,327 [main] com.paylinks.driver.DriverManager  - Launched Chrome Instance
+INFO    2022-01-17 18:16:34,221 [main] com.paylinks.driver.DriverManager  - Launched Chrome Instance
